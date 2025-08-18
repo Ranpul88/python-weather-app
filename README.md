@@ -29,5 +29,5 @@ A simple web application built with **Python** and **Flask** that fetches curren
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Ranpul88/python-weather-app.git
 cd weather-app
